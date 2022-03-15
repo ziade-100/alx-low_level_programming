@@ -1,1 +1,1 @@
-this is functions and loops folder
+# C - Functions, nested loops
